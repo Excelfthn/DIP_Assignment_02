@@ -5,7 +5,7 @@ The project demonstrates various enhancement techniques such as blurring, bright
 
 ## Features Implemented
 
-### 🔹 Blur Techniques
+### Blur Techniques
 1. **Box Blur (Mean Filter)** – Simple averaging of neighbors.  
 2. **Gaussian Blur** – Weighted averaging with Gaussian kernel.  
 3. **Median Blur** – Replaces pixel with neighborhood median, good for salt-and-pepper noise.  
