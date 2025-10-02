@@ -18,6 +18,6 @@ The project demonstrates various enhancement techniques such as blurring, bright
 - **Lower Contrast** – Compresses the intensity range to reduce contrast.  
 
 ## References
-[1] Image Blurring Example with OpenCV in Python - https://youtu.be/0Y9G-mYzffk?si=DivkdBzhjeHOFT6q
-[2] Python Intensity Transformation Operations on Images - https://www.geeksforgeeks.org/python/python-intensity-transformation-operations-on-images/
-[3] Histograms & Intensity Transformations OpenCV - https://www.kaggle.com/code/bhavinmoriya/histograms-intensity-transformations-opencv#Toy-Example
+1. Image Blurring Example with OpenCV in Python - https://youtu.be/0Y9G-mYzffk?si=DivkdBzhjeHOFT6q
+2. Python Intensity Transformation Operations on Images - https://www.geeksforgeeks.org/python/python-intensity-transformation-operations-on-images/
+3. Histograms & Intensity Transformations OpenCV - https://www.kaggle.com/code/bhavinmoriya/histograms-intensity-transformations-opencv#Toy-Example
